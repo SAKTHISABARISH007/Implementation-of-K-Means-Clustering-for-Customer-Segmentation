@@ -8,7 +8,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Load the dataset and select the features Annual Income and Spending Score.
+1.Load the dataset and select the features Annual Income and Spending Score.
 
 2.Use the Elbow method to calculate WCSS for different cluster values to find the optimal number of clusters.
 
